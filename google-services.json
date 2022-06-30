@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952529038514",
+    "project_id": "ridebook-2e9f7",
+    "storage_bucket": "ridebook-2e9f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952529038514:android:6023b161b8a8cac072adab",
+        "android_client_info": {
+          "package_name": "com.mubashir.bookride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952529038514-uielqvtequ1a9gk83alq0ovrni8188br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIoCL9xiTt2z-YCDMZ6yEdqDNeMMJR5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952529038514-uielqvtequ1a9gk83alq0ovrni8188br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
